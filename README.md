@@ -19,6 +19,54 @@ how they work for you and what's still causing you to use more boilerplate and
 "design patterns" than you prefer.
 
 ## What now? What can Traceur do for me?
+[![Build Status](https://travis-ci.org/google/traceur-compiler.svg)](https://travis-ci.org/google/traceur-compiler)
+
+<img src="https://google.github.com/traceur-compiler/logo/tc.svg" alt="Traceur logo" width="200px">
+## What is Traceur?
+
+[![Build Status](https://travis-ci.org/google/traceur-compiler.svg)](https://travis-ci.org/google/traceur-compiler)
+
+<img src="https://google.github.com/traceur-compiler/logo/tc.svg" alt="Traceur logo" width="200px">
+## What is Traceur?
+
+Traceur is a JavaScript.next-to-JavaScript-of-today compiler that allows you to
+use features from the future **today**. Traceur's goal is to inform the design
+of new JavaScript features which are only valuable if they allow you to write
+better code. Traceur allows you to try out new and proposed
+[language features](https://github.com/google/traceur-compiler/wiki/LanguageFeatures)
+today, helping you say what you mean in your code while informing the standards process.
+
+JavaScript's evolution needs your input.
+[Try](https://github.com/google/traceur-compiler/wiki/Getting-Started) out the
+new language features.
+[Tell us](http://groups.google.com/group/traceur-compiler-discuss)
+how they work for you and what's still causing you to use more boilerplate and
+"design patterns" than you prefer.
+
+## What now? What can Traceur do for me?
+[![Build Status](https://travis-ci.org/google/traceur-compiler.svg)](https://travis-ci.org/google/traceur-compiler)
+
+<img src="https://google.github.com/traceur-compiler/logo/tc.svg" alt="Traceur logo" width="200px">
+## What is Traceur?
+
+
+#TEST CLA
+
+Traceur is a JavaScript.next-to-JavaScript-of-today compiler that allows you to
+use features from the future **today**. Traceur's goal is to inform the design
+of new JavaScript features which are only valuable if they allow you to write
+better code. Traceur allows you to try out new and proposed
+[language features](https://github.com/google/traceur-compiler/wiki/LanguageFeatures)
+today, helping you say what you mean in your code while informing the standards process.
+
+JavaScript's evolution needs your input.
+[Try](https://github.com/google/traceur-compiler/wiki/Getting-Started) out the
+new language features.
+[Tell us](http://groups.google.com/group/traceur-compiler-discuss)
+how they work for you and what's still causing you to use more boilerplate and
+"design patterns" than you prefer.
+
+## What now? What can Traceur do for me?
 
 Read the
 [Getting Started](https://github.com/google/traceur-compiler/wiki/Getting-Started)

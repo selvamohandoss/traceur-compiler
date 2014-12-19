@@ -21,6 +21,36 @@ how they work for you and what's still causing you to use more boilerplate and
 ## What now? What can Traceur do for me?
 [![Build Status](https://travis-ci.org/google/traceur-compiler.svg)](https://travis-ci.org/google/traceur-compiler)
 
+* Does this method ever return `null`?
+* Does this method mutate this collection passed to it?
+
+### Output format
+
+The contracts are represented as annotations on Java method, hence the name of the project.
+Since libraries under analysis are not under user's control, the annotations can not be added to their code directly, so KAnnotator stores them in one of the two formats:
+
+KAnnotator
+KAnnotator
+KAnnotator
+==========
+
+Infer @Nullable/@NotNull and other annotations from byte code
+* Does this method ever return `null`?
+* Does this method mutate this collection passed to it?
+
+### Output format
+
+The contracts are represented as annotations on Java method, hence the name of the project.
+Since libraries under analysis are not under user's control, the annotations can not be added to their code directly, so KAnnotator stores them in one of the two formats:
+
+KAnnotator
+KAnnotator
+KAnnotator
+==========
+
+Infer @Nullable/@NotNull and other annotations from byte code
+
+
 <img src="https://google.github.com/traceur-compiler/logo/tc.svg" alt="Traceur logo" width="200px">
 ## What is Traceur?
 
